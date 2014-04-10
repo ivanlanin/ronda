@@ -1,0 +1,47 @@
+* { font-size: normal; }
+h1 { margin: 10px 0px 10px 0px; padding: 0px; font-size: 150%; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+table.data { border-collapse: collapse; width: 100%;  }
+table.data td { padding: 2px 5px; border-bottom: 1px solid #FFF; }
+tr.anon td { background: #eee; }
+form#search { margin-bottom: 20px; padding: 5px; background: #eee; }
+
+#footer { margin-top: 20px; }
+#menu { margin: 0px 0px 10px 0px; }
+
+table.table { border-collapse: collapse; }
+table.table th, table.table td { border: 1px solid #999; padding: 2px 3px; }
+table.table th { background: #ccc; }
+
+td.date { font-weight: bold; font-size: 100%; padding: 10px 0px 10px 0px !important; }
+.changes { font-style: italic; }
+
+.user-trusted { color: #999999; }
+.user-login { color: #990000; }
+.user-anon { color: #FF0000; }
+
+.size-neg { color:#FF2050; white-space: nowrap; }
+.size-pos { color:#00B000; white-space: nowrap; }
+.size-null { color:#999; white-space: nowrap; }
+.size-large { font-weight: bold; white-space: nowrap; }
+
+.label { white-space: nowrap; }
+.content ul, .content ol {
+	margin: 0 0 0 1.5em; padding-left: 0em;
+}
+
+/* .new { font-weight: bold; } */
+.redirect { font-style: italic; }
+.revert { text-decoration: line-through; }
+.stat { font-size:x-small; vertical-align:top; font-weight: bold; color: #ccc; }
+
+.ns-0, .ns-1 { background: #C0C0C0 !important; } /* Artikel */
+.ns-2, .ns-3 { background: #00FFFF !important; } /* Pengguna */
+.ns-4, .ns-5 { background: #A600A6 !important; } /* Wikipedia */
+.ns-6, .ns-7 { background: #D20000 !important; } /* Berkas */
+.ns-8, .ns-9 { background: #FFFF00 !important; } /* MediaWiki */
+.ns-10, .ns-11 { background: #808000 !important; } /* Templat */
+.ns-12, .ns-13 { background: #FF00FF !important; } /* Bantuan */
+.ns-14, .ns-15 { background: #008080 !important; } /* Kategori */
+.ns-100, .ns-101 { background: #00C000 !important; } /* Portal */
